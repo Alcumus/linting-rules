@@ -14,7 +14,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "optionalDependencies": {
-    "@alcumus/alcumus-common-tools": "0.0.1"
+    "alcumus-common-tools": "0.0.2"
   },
   "author": "Alcumus Group",
   "license": "ISC"
