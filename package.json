@@ -2,7 +2,7 @@
   "name": "alcumus-linting-rules",
   "version": "0.0.1",
   "description": "Linting rules to be shared between Alcumus projects.",
-  "main": "index.js",
+  "main": "resources/linting/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,9 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
+  },
+  "optionalDependencies": {
+    "@alcumus/alcumus-common-tools": "0.0.1"
   },
   "author": "Alcumus Group",
   "license": "ISC"
