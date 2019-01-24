@@ -10,7 +10,7 @@ module.exports = {
         indent: ['error', 4],
         quotes: ['error', 'single', { avoidEscape: true }],
         semi: ['error', 'always'],
-        'no-unused-vars': ['error', { argsIgnorePattern: '^__' }]
+        'no-unused-vars': ['error', { argsIgnorePattern: '^__', varsIgnorePattern: '^__' }]
     },
     parserOptions: {
         sourceType: 'module',
