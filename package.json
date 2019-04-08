@@ -1,6 +1,6 @@
 {
   "name": "alcumus-linting-rules",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Linting rules to be shared between Alcumus projects.",
   "main": "resources/linting/index.js",
   "scripts": {
