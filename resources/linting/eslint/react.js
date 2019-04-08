@@ -7,8 +7,7 @@ module.exports = {
         jest: true
     },
     rules: {
-        'react-hooks/rules-of-hooks': 'error',
-        'jsx-quotes': ['error', 'prefer-double']
+        'react-hooks/rules-of-hooks': 'error'
     },
     plugins: [
         'react-hooks'
