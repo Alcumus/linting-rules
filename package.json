@@ -1,6 +1,6 @@
 {
-  "name": "alcumus-linting-rules",
-  "version": "0.0.5",
+  "name": "@alcumus/linting-rules",
+  "version": "0.0.6",
   "description": "Linting rules to be shared between Alcumus projects.",
   "main": "resources/linting/index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/Alcumus/linting-rules.git"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "author": "Alcumus Group",
